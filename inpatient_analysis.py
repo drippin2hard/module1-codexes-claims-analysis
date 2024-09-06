@@ -6,8 +6,6 @@ print(df.head())
 
 print(df.info())
 
-print(df.head())
-
 print(df.columns)
 
 # Identify codex-related columns (modify based on actual column names)
